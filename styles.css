@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Set a maximum width for the image */
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Optional: Set a maximum height for the image */
+  /*img {
+    max-height: 300px;
+    width: auto;
+  }*/
+  
